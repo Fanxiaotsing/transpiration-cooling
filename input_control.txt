@@ -1,0 +1,7 @@
+plate
+result.txt,error_br.log,error_stab.log
+1D-3
+100,15D-3
+0.113,1.196D-13
+1140,622,1.58
+Air
